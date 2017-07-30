@@ -9,6 +9,10 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
+/**
+*
+*/
+
 public class ShipGenerator extends Thread{
 
     private int shipsToGenerateCount;
